@@ -1,24 +1,20 @@
-* {
-    box-sizing: border-box;
-  }
 html
 {
-    font-size: 1.5vw;
+    /* font-size: max(14pt, 1.5vw); */
+
 }
-#cindy
+/* #cindy
 {
     display: block;
     width: 250px;
     height: auto;
     margin-left: 1%;
-
     margin-right: auto;
     margin-top: 15%;
     margin-bottom: auto;
-
     border-radius: 50%;
+} */
 
-}
 p
 {
 
@@ -26,11 +22,10 @@ p
     word-wrap: normal;
     /* inline-size: 57vw; */
     /* inline-size: 500px; */
-    max-width: 35vw;
-
+    /* max-width: min(500px,90%);
     margin-left: auto;
     margin-right: auto;
-    font-size: 100%;
+    font-size: max(16pt, 1.5vw); */
 
 }
 
@@ -41,7 +36,7 @@ p
 
 } */
 
-a
+/* a
 {
     color: black;
 }
@@ -52,12 +47,11 @@ a:hover
 h1
 {
     font-family: 'Times New Roman', serif;
-    font-size: 5vw;
 }
 
 h6
 {
     font-family: 'Times New Roman', serif;
-    font-size: 2.5vw;
+    font-size: larger;
 
-}
+} */
