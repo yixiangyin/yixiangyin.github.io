@@ -9,6 +9,10 @@
     margin-bottom: auto;
     border-radius: 50%;
 } */
+.tab-list
+{
+    --bs-gutter-x: 0rem;
+}
 #cindy
 {
     max-width: 60%;
