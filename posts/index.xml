@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Yin Yixiang</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://yixiangyin.github.io/posts/</link>
     <description>Recent content in Posts on Yin Yixiang</description>
     <image>
       <title>Yin Yixiang</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://yixiangyin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://yixiangyin.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
     <lastBuildDate>Tue, 22 Jul 2025 23:35:38 +1000</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yixiangyin.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Post</title>
-      <link>http://localhost:1313/posts/test-post/</link>
+      <link>https://yixiangyin.github.io/posts/test-post/</link>
       <pubDate>Tue, 22 Jul 2025 23:35:38 +1000</pubDate>
-      <guid>http://localhost:1313/posts/test-post/</guid>
+      <guid>https://yixiangyin.github.io/posts/test-post/</guid>
       <description></description>
     </item>
   </channel>
